@@ -34,3 +34,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# 1. 开始工作前，确保获取最新代码
+git pull
+
+# 2. 进行你的代码修改...
+
+# 3. 检查哪些文件被修改了
+git status
+
+# 4. 添加所有修改的文件
+git add .
+
+# 5. 提交更改（写清晰的提交信息！）
+git commit -m "完成布局"
+
+# 6. 再次拉取以防期间有远程更新
+git pull
+
+# 7. 推送你的更改
+git push
